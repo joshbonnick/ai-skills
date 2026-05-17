@@ -1,5 +1,5 @@
 ---
-name: deckgl
+name: deckgl-development
 description: Build high-performance geospatial and data visualizations using deck.gl. Use this skill whenever the user mentions deck.gl, wants to visualize geographic data on a map (points, paths, polygons, heatmaps, hexbins, arcs, tiles), needs WebGL-powered large-scale data rendering, or asks for map overlays with interactivity. Trigger for terms like "scatter map", "geospatial viz", "hexagon layer", "GeoJSON map", "trip animation", "map tiles", or "data on a map". Also trigger when the user wants to upgrade from Leaflet or Mapbox GL JS to something more performant.
 ---
 
